@@ -1,5 +1,5 @@
 package demo
 
 func GetGreeting() string {
-	return "Hello 1"
+	return "Hello 2"
 }
